@@ -1,4 +1,4 @@
-Watch me explain this lab: [LoomLink](PASTE-VIDEO-LINK-HERE)
+Watch me explain this lab: [LoomLink](https://www.loom.com/share/9b25c879dee240f28d197db8928457b8)
 
 # terraform-azure-update-manager
 
